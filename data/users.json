@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "prenom": "Admin",
+    "nom": "System",
+    "email": "admin@univ.fr",
+    "adresse_ethereum": "0xee39cF37c10ea523236A2FC835c4342cF2ed2dB0",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "prenom": "User",
+    "nom": "Demo",
+    "email": "user@univ.fr",
+    "adresse_ethereum": "0xB07068EDd6F47173146b45DDf1989ACD69E12527",
+    "role": "user"
+  }
+]
